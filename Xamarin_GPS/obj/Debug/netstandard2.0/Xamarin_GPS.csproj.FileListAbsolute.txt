@@ -1,0 +1,11 @@
+D:\EngComp\EC10\P Mobile\Xamarin_GPS\Xamarin_GPS\Xamarin_GPS\obj\Debug\netstandard2.0\Xamarin_GPS.csprojAssemblyReference.cache
+D:\EngComp\EC10\P Mobile\Xamarin_GPS\Xamarin_GPS\obj\Debug\netstandard2.0\Xamarin_GPS.csprojAssemblyReference.cache
+D:\EngComp\EC10\P Mobile\Xamarin_GPS\Xamarin_GPS\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\EngComp\EC10\P Mobile\Xamarin_GPS\Xamarin_GPS\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\EngComp\EC10\P Mobile\Xamarin_GPS\Xamarin_GPS\obj\Debug\netstandard2.0\View\Geolocation.xaml.g.cs
+D:\EngComp\EC10\P Mobile\Xamarin_GPS\Xamarin_GPS\obj\Debug\netstandard2.0\View\Lanterna.xaml.g.cs
+D:\EngComp\EC10\P Mobile\Xamarin_GPS\Xamarin_GPS\obj\Debug\netstandard2.0\Xamarin_GPS.AssemblyInfoInputs.cache
+D:\EngComp\EC10\P Mobile\Xamarin_GPS\Xamarin_GPS\obj\Debug\netstandard2.0\Xamarin_GPS.AssemblyInfo.cs
+D:\EngComp\EC10\P Mobile\Xamarin_GPS\Xamarin_GPS\obj\Debug\netstandard2.0\Xamarin_GPS.dll
+D:\EngComp\EC10\P Mobile\Xamarin_GPS\Xamarin_GPS\obj\Debug\netstandard2.0\ref\Xamarin_GPS.dll
+D:\EngComp\EC10\P Mobile\Xamarin_GPS\Xamarin_GPS\obj\Debug\netstandard2.0\Xamarin_GPS.pdb

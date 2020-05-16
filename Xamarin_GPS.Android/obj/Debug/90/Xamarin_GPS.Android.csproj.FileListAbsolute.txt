@@ -1,0 +1,10 @@
+D:\EngComp\EC10\P Mobile\Xamarin_GPS\Xamarin_GPS\Xamarin_GPS.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+D:\EngComp\EC10\P Mobile\Xamarin_GPS\Xamarin_GPS\Xamarin_GPS.Android\obj\Debug\90\build.props
+D:\EngComp\EC10\P Mobile\Xamarin_GPS\Xamarin_GPS\Xamarin_GPS.Android\obj\Debug\90\adb.props
+D:\EngComp\EC10\P Mobile\Xamarin_GPS\Xamarin_GPS\Xamarin_GPS.Android\obj\Debug\90\Xamarin_GPS.Android.csprojAssemblyReference.cache
+D:\EngComp\EC10\P Mobile\Xamarin_GPS\Xamarin_GPS\Xamarin_GPS.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+D:\EngComp\EC10\P Mobile\Xamarin_GPS\Xamarin_GPS.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+D:\EngComp\EC10\P Mobile\Xamarin_GPS\Xamarin_GPS.Android\obj\Debug\90\build.props
+D:\EngComp\EC10\P Mobile\Xamarin_GPS\Xamarin_GPS.Android\obj\Debug\90\adb.props
+D:\EngComp\EC10\P Mobile\Xamarin_GPS\Xamarin_GPS.Android\obj\Debug\90\Xamarin_GPS.Android.csprojAssemblyReference.cache
+D:\EngComp\EC10\P Mobile\Xamarin_GPS\Xamarin_GPS.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
