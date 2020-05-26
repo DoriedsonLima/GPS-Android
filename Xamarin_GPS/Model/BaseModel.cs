@@ -4,9 +4,18 @@ using System.Text;
 
 namespace Xamarin_GPS.Model
 {
-    public class BaseModel
+    using System;
+    using System.Collections.Generic;
+    using System.Text;
+
+    namespace Xamarin_GPS.Model
     {
-        public string Title { get; protected set; } 
-        
+        public class BaseModel
+        {
+            public string Title { get; protected set; }
+
+        }
     }
+
+
 }

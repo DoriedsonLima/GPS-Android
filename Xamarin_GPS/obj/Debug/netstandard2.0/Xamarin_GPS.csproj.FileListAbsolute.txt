@@ -9,3 +9,20 @@ D:\EngComp\EC10\P Mobile\Xamarin_GPS\Xamarin_GPS\obj\Debug\netstandard2.0\Xamari
 D:\EngComp\EC10\P Mobile\Xamarin_GPS\Xamarin_GPS\obj\Debug\netstandard2.0\Xamarin_GPS.dll
 D:\EngComp\EC10\P Mobile\Xamarin_GPS\Xamarin_GPS\obj\Debug\netstandard2.0\ref\Xamarin_GPS.dll
 D:\EngComp\EC10\P Mobile\Xamarin_GPS\Xamarin_GPS\obj\Debug\netstandard2.0\Xamarin_GPS.pdb
+D:\EngComp\EC10\PMobile\Xamarin_GPS\Xamarin_GPS\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\EngComp\EC10\PMobile\Xamarin_GPS\Xamarin_GPS\obj\Debug\netstandard2.0\View\MainPage.xaml.g.cs
+D:\EngComp\EC10\PMobile\Xamarin_GPS\Xamarin_GPS\obj\Debug\netstandard2.0\Xamarin_GPS.AssemblyInfoInputs.cache
+D:\EngComp\EC10\PMobile\Xamarin_GPS\Xamarin_GPS\obj\Debug\netstandard2.0\Xamarin_GPS.AssemblyInfo.cs
+D:\EngComp\EC10\PMobile\Xamarin_GPS\Xamarin_GPS\obj\Debug\netstandard2.0\Xamarin_GPS.dll
+D:\EngComp\EC10\PMobile\Xamarin_GPS\Xamarin_GPS\obj\Debug\netstandard2.0\ref\Xamarin_GPS.dll
+D:\EngComp\EC10\PMobile\Xamarin_GPS\Xamarin_GPS\obj\Debug\netstandard2.0\Xamarin_GPS.pdb
+D:\EngComp\EC10\PMobile\Xamarin_GPS\Xamarin_GPS\bin\Debug\netstandard2.0\Xamarin_GPS.deps.json
+D:\EngComp\EC10\PMobile\Xamarin_GPS\Xamarin_GPS\bin\Debug\netstandard2.0\Xamarin_GPS.dll
+D:\EngComp\EC10\PMobile\Xamarin_GPS\Xamarin_GPS\bin\Debug\netstandard2.0\ref\Xamarin_GPS.dll
+D:\EngComp\EC10\PMobile\Xamarin_GPS\Xamarin_GPS\bin\Debug\netstandard2.0\Xamarin_GPS.pdb
+D:\EngComp\EC10\PMobile\Xamarin_GPS\Xamarin_GPS\obj\Debug\netstandard2.0\XamlC.stamp
+D:\EngComp\EC10\PMobile\Xamarin_GPS\Xamarin_GPS\bin\Debug\netstandard2.0\Mono.Android.dll
+D:\EngComp\EC10\PMobile\Xamarin_GPS\Xamarin_GPS\bin\Debug\netstandard2.0\Mono.Android.pdb
+D:\EngComp\EC10\PMobile\Xamarin_GPS\Xamarin_GPS\bin\Debug\netstandard2.0\Mono.Android.xml
+D:\EngComp\EC10\PMobile\Xamarin_GPS\Xamarin_GPS\obj\Debug\netstandard2.0\Xamarin_GPS.csproj.CopyComplete
+D:\EngComp\EC10\PMobile\Xamarin_GPS\Xamarin_GPS\obj\Debug\netstandard2.0\Xamarin_GPS.csprojAssemblyReference.cache

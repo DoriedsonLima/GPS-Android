@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\EngComp\\EC10\\P Mobile\\Xamarin_GPS\\Xamarin_GPS.Android\\Xamarin_GPS.Android.csproj": {}
+    "D:\\EngComp\\EC10\\PMobile\\Xamarin_GPS\\Xamarin_GPS.Android\\Xamarin_GPS.Android.csproj": {}
   },
   "projects": {
-    "D:\\EngComp\\EC10\\P Mobile\\Xamarin_GPS\\Xamarin_GPS.Android\\Xamarin_GPS.Android.csproj": {
+    "D:\\EngComp\\EC10\\PMobile\\Xamarin_GPS\\Xamarin_GPS.Android\\Xamarin_GPS.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\EngComp\\EC10\\P Mobile\\Xamarin_GPS\\Xamarin_GPS.Android\\Xamarin_GPS.Android.csproj",
+        "projectUniqueName": "D:\\EngComp\\EC10\\PMobile\\Xamarin_GPS\\Xamarin_GPS.Android\\Xamarin_GPS.Android.csproj",
         "projectName": "Xamarin_GPS.Android",
-        "projectPath": "D:\\EngComp\\EC10\\P Mobile\\Xamarin_GPS\\Xamarin_GPS.Android\\Xamarin_GPS.Android.csproj",
+        "projectPath": "D:\\EngComp\\EC10\\PMobile\\Xamarin_GPS\\Xamarin_GPS.Android\\Xamarin_GPS.Android.csproj",
         "packagesPath": "C:\\Users\\Doriedson\\.nuget\\packages\\",
-        "outputPath": "D:\\EngComp\\EC10\\P Mobile\\Xamarin_GPS\\Xamarin_GPS.Android\\obj\\",
+        "outputPath": "D:\\EngComp\\EC10\\PMobile\\Xamarin_GPS\\Xamarin_GPS.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "D:\\EngComp\\EC10\\P Mobile\\Xamarin_GPS\\Xamarin_GPS\\Xamarin_GPS.csproj": {
-                "projectPath": "D:\\EngComp\\EC10\\P Mobile\\Xamarin_GPS\\Xamarin_GPS\\Xamarin_GPS.csproj"
+              "D:\\EngComp\\EC10\\PMobile\\Xamarin_GPS\\Xamarin_GPS\\Xamarin_GPS.csproj": {
+                "projectPath": "D:\\EngComp\\EC10\\PMobile\\Xamarin_GPS\\Xamarin_GPS\\Xamarin_GPS.csproj"
               }
             }
           }
@@ -54,14 +54,14 @@
         }
       }
     },
-    "D:\\EngComp\\EC10\\P Mobile\\Xamarin_GPS\\Xamarin_GPS\\Xamarin_GPS.csproj": {
+    "D:\\EngComp\\EC10\\PMobile\\Xamarin_GPS\\Xamarin_GPS\\Xamarin_GPS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\EngComp\\EC10\\P Mobile\\Xamarin_GPS\\Xamarin_GPS\\Xamarin_GPS.csproj",
+        "projectUniqueName": "D:\\EngComp\\EC10\\PMobile\\Xamarin_GPS\\Xamarin_GPS\\Xamarin_GPS.csproj",
         "projectName": "Xamarin_GPS",
-        "projectPath": "D:\\EngComp\\EC10\\P Mobile\\Xamarin_GPS\\Xamarin_GPS\\Xamarin_GPS.csproj",
+        "projectPath": "D:\\EngComp\\EC10\\PMobile\\Xamarin_GPS\\Xamarin_GPS\\Xamarin_GPS.csproj",
         "packagesPath": "C:\\Users\\Doriedson\\.nuget\\packages\\",
-        "outputPath": "D:\\EngComp\\EC10\\P Mobile\\Xamarin_GPS\\Xamarin_GPS\\obj\\",
+        "outputPath": "D:\\EngComp\\EC10\\PMobile\\Xamarin_GPS\\Xamarin_GPS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

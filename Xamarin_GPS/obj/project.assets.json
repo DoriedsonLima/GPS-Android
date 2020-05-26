@@ -573,11 +573,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\EngComp\\EC10\\P Mobile\\Xamarin_GPS\\Xamarin_GPS\\Xamarin_GPS.csproj",
+      "projectUniqueName": "D:\\EngComp\\EC10\\PMobile\\Xamarin_GPS\\Xamarin_GPS\\Xamarin_GPS.csproj",
       "projectName": "Xamarin_GPS",
-      "projectPath": "D:\\EngComp\\EC10\\P Mobile\\Xamarin_GPS\\Xamarin_GPS\\Xamarin_GPS.csproj",
+      "projectPath": "D:\\EngComp\\EC10\\PMobile\\Xamarin_GPS\\Xamarin_GPS\\Xamarin_GPS.csproj",
       "packagesPath": "C:\\Users\\Doriedson\\.nuget\\packages\\",
-      "outputPath": "D:\\EngComp\\EC10\\P Mobile\\Xamarin_GPS\\Xamarin_GPS\\obj\\",
+      "outputPath": "D:\\EngComp\\EC10\\PMobile\\Xamarin_GPS\\Xamarin_GPS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
